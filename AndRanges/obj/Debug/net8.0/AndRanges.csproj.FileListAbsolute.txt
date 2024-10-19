@@ -1,0 +1,14 @@
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\AndRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\AndRanges.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\AndRanges.AssemblyInfo.cs
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\AndRanges.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net8.0\AndRanges.exe
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net8.0\AndRanges.deps.json
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net8.0\AndRanges.runtimeconfig.json
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net8.0\AndRanges.dll
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\bin\Debug\net8.0\AndRanges.pdb
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\AndRanges.dll
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\refint\AndRanges.dll
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\AndRanges.pdb
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\AndRanges.genruntimeconfig.cache
+C:\Users\henri\source\repos\Week5LogicalOperators\AndRanges\obj\Debug\net8.0\ref\AndRanges.dll
